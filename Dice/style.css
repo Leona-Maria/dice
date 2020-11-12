@@ -1,0 +1,42 @@
+.dice{
+  float: left;
+  width: 160px;
+  background: #F5F5F5;
+  border: #999 1px solid;
+  padding: 10px;
+  font-size: 150px;
+  text-align: center;
+  margin: 10%;
+  color: 000000;
+  font-family: serif;
+}
+
+body{
+  font-family: Segoe UI;
+  font-size: 40px;
+}
+
+#showcase{
+  min-height:1500px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #000000;
+}
+
+.rollBut {
+  float: left;
+  margin: 5%;
+	background-color: transparent;
+	border-radius: 28px;
+	border: 3px solid #ffffff;
+	display: inline-block;
+	cursor: pointer;
+	color: #ffffff;
+	font-family: sans-serif;
+	font-size: 26px;
+	padding: 16px 31px;
+	text-decoration: none;
+}
+.rollBut:hover {
+	background-color: transparent;
+}
